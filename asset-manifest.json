@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/anime-site/static/css/main.90e0ffd1.css",
-    "main.js": "/anime-site/static/js/main.c00448ef.js",
+    "main.js": "/anime-site/static/js/main.1cd02430.js",
     "static/media/tr.mp4": "/anime-site/static/media/tr.94434e6a8a1ba5c17c72.mp4",
     "static/media/tokyo revenger.jpg": "/anime-site/static/media/tokyo revenger.c6992df855b26c2c5644.jpg",
     "static/media/blue-lock.jpg": "/anime-site/static/media/blue-lock.b9e54c2837c00e4e9180.jpg",
@@ -19,10 +19,10 @@
     "static/media/bluelock.jpg": "/anime-site/static/media/bluelock.9f18fc732bdf40c398cf.jpg",
     "index.html": "/anime-site/index.html",
     "main.90e0ffd1.css.map": "/anime-site/static/css/main.90e0ffd1.css.map",
-    "main.c00448ef.js.map": "/anime-site/static/js/main.c00448ef.js.map"
+    "main.1cd02430.js.map": "/anime-site/static/js/main.1cd02430.js.map"
   },
   "entrypoints": [
     "static/css/main.90e0ffd1.css",
-    "static/js/main.c00448ef.js"
+    "static/js/main.1cd02430.js"
   ]
 }
