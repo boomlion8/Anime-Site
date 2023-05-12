@@ -1,0 +1,79 @@
+.middlebar{
+    display: flex;
+    color: white;
+    display: inline;
+}
+
+
+.rating_bottom{
+    color: white;
+    margin-top: 10%;
+    display: flex;
+}
+
+.bottom_item{
+    display: flex;
+    
+    margin-left: 10px;
+}
+
+.bottom_list_item{
+    margin-top: 10%;
+    display: inline;
+    margin-left: 10%;
+}
+
+
+
+
+.videoPlayer{
+    width: 0.6rem;
+    height: 0.6rem;
+    margin-left: 300px;
+    display: flex;
+
+}
+
+.middlebar_item{
+    margin-top: 4%;
+    margin-left: 7%;
+}
+
+.header_name{
+    font-size: 4.5em;
+    font-weight: bold;
+    margin-bottom: 2%;
+}
+
+.middlebar2{
+    font-size: 1.5em;
+    margin-right: 45%;
+    margin-bottom: 2%;
+}
+
+
+
+.right{
+    display: flex;
+    padding: 15px;
+    background-color: rgb(205, 160, 160);
+    margin-right: 90%;
+    border-radius:5%;
+    cursor: pointer;
+}
+
+.right:hover{
+    background-color: rgb(189, 137, 137);
+}
+.arrow{
+    margin-left: 20px;
+}
+
+/* .watch-button{
+   
+    color: white;
+} */
+
+.star_icon{
+    display: flex;
+}

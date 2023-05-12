@@ -1,0 +1,82 @@
+.season{
+    margin-left: 45%;
+}
+.detail{
+    margin-top: 5px;
+    margin-left: 45%;
+}
+.details{
+    display: inline;
+    margin-left: 40%;
+}
+.details_list{
+    display: flex;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+
+.list{
+    color:orange;
+    font-weight: bold;
+}
+
+.type{
+    margin-left: 20px;
+    color:white
+}
+
+.haikyu{
+    margin-left: 150px;
+
+    background-color: #555;
+
+    margin-right: 11.4%;
+    
+}
+
+.num{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.hai{
+    height: 100vh;
+    width: 80vw;
+    padding: 20px;
+}
+
+.number{
+    padding: 8px;
+    background-color: orange;
+    border-radius: 2px;
+}
+
+.number:hover{
+    background-color: rgb(165, 149, 120);
+}
+
+.head{
+    font-weight: bold;
+    color: white;
+    font-size:  3rem;
+    align-items: center;
+    margin-left: 40%;
+}
+
+.desc{
+    margin-top: 1%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.watc{
+    font-weight: bold;
+    color: white;
+    font-size:  3rem;
+    align-items: center;
+    margin-left: 35%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}

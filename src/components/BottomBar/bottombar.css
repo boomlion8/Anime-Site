@@ -1,0 +1,39 @@
+.bottombar{
+    display: flex;
+    margin-left: 12%;
+    margin-top: 5%;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.welcome{
+    margin-top: 50px;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.haikyu_imag{
+    height: 400px;
+    width: 750px; 
+}
+.email{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.bottombar_left{
+    margin-right: 10%;
+}
+.subscribe_bar{
+    display: flex;
+}
+
+.subscribe-button{
+  padding: 20px;
+  margin-left: 7px;
+  background: red;
+  border-radius: 10%;
+  cursor: pointer;
+}
+
+.subscribe-button:hover{
+    background: rgb(185, 93, 93);
+}

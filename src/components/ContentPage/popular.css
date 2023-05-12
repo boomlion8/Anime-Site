@@ -1,0 +1,11 @@
+.popular_component{
+    display: flex;
+}
+
+.popular_image{
+    height: 25vh;
+padding: 14px;
+margin-left: 15px;
+
+}
+

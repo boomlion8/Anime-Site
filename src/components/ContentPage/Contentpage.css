@@ -1,0 +1,76 @@
+/* .component{
+    background-color: #4242c1;
+} */
+
+
+.component_wrapper{
+    margin-top: 50px;
+    display: flex;
+    margin-right: 250px;
+    margin-left: 50px;
+     
+
+}
+
+.component_text{
+    flex: 1;
+}
+
+
+
+.header_about{
+    color: white;
+    margin-left: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-size: 3rem;
+    font-weight: bold;
+    margin-left: 400px;  
+}
+
+.text{
+    margin-right: 250px;
+    color: white;
+    margin-left: 15%;
+    font-size: large;
+    line-height: 1.8;
+}
+
+.haikyu_image{
+    margin-top: 50px;
+    height: 500px;
+    width: 400px;
+    margin-right: 100px;
+}
+
+.component_wrap{
+    display: flex;
+}
+.popular{
+    font-weight: bold;
+    color: white;
+    font-size:  3rem;
+    align-items: center;
+    margin-left: 45%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+.right{
+    display: flex;
+    padding: 15px;
+    background-color: rgb(205, 160, 160);
+    margin-right: 90%;
+    border-radius:5%;
+    cursor: pointer;
+}
+
+.play_video{
+    margin-left: 8%;
+    display: flex;
+}
+
+.play_video_icon{
+    cursor: pointer;
+    margin-left: 15%;
+    margin-top: 20%;
+}
