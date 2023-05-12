@@ -7,13 +7,13 @@ import Trailer from "./components/Trailer/Trailer";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/anime-site">
       <Routes>
-        <Route path="/anime-site/" element={<Home />} />
+        <Route path="/" element={<Home />} />
       </Routes>
       <Routes>
         <Route
-          path="/anime-site/episode"
+          path="/episode"
           element={
             <>
               <Header />
@@ -22,7 +22,7 @@ function App() {
           }
         />
         <Route
-          path="/anime-site/anime"
+          path="/anime"
           element={
             <>
               <Header />
