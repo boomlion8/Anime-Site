@@ -9,11 +9,11 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="https://boomlion8.github.io/anime-site/" element={<Home />} />
+        <Route path="/anime-site/" element={<Home />} />
       </Routes>
       <Routes>
         <Route
-          path="https://boomlion8.github.io/anime-site/episode"
+          path="/anime-site/episode"
           element={
             <>
               <Header />
@@ -22,7 +22,7 @@ function App() {
           }
         />
         <Route
-          path="https://boomlion8.github.io/anime-site/anime"
+          path="/anime-site/anime"
           element={
             <>
               <Header />
@@ -31,7 +31,7 @@ function App() {
           }
         />
         <Route
-          path="https://boomlion8.github.io/anime-site/trailer"
+          path="/trailer"
           element={
             <>
               <Header />
