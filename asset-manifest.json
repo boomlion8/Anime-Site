@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/anime-site/static/css/main.90e0ffd1.css",
+    "main.js": "/anime-site/static/js/main.d7457d3a.js",
+    "static/media/tr.mp4": "/anime-site/static/media/tr.94434e6a8a1ba5c17c72.mp4",
+    "static/media/tokyo revenger.jpg": "/anime-site/static/media/tokyo revenger.c6992df855b26c2c5644.jpg",
+    "static/media/blue-lock.jpg": "/anime-site/static/media/blue-lock.b9e54c2837c00e4e9180.jpg",
+    "static/media/demonslayer.jpg": "/anime-site/static/media/demonslayer.7e73384c1377446cd1c3.jpg",
+    "static/media/haik.png": "/anime-site/static/media/haik.af0deb0adb3b468ac618.png",
+    "static/media/haikyu6.jpg": "/anime-site/static/media/haikyu6.35f96d0ab6fe28fd9855.jpg",
+    "static/media/haikyu5.jpg": "/anime-site/static/media/haikyu5.76eb8d31f6431141b3a5.jpg",
+    "static/media/jjk.jpg": "/anime-site/static/media/jjk.0bb30dcedbeae99348b4.jpg",
+    "static/media/haikyu4.jpg": "/anime-site/static/media/haikyu4.4f1f891caf20dacd63e6.jpg",
+    "static/media/haikyu2.jpg": "/anime-site/static/media/haikyu2.ec503fa64e3a50689465.jpg",
+    "static/media/haikyu7.jpg": "/anime-site/static/media/haikyu7.cbe8dfa52f500cbf6fd7.jpg",
+    "static/media/haikyu3.jpg": "/anime-site/static/media/haikyu3.bc688937d6172d8b9a89.jpg",
+    "static/media/haikyu1.jpg": "/anime-site/static/media/haikyu1.c157d34ed43b9ab60b27.jpg",
+    "static/media/haikyu.jpg": "/anime-site/static/media/haikyu.9d31820eae9039a8ab97.jpg",
+    "static/media/bluelock.jpg": "/anime-site/static/media/bluelock.9f18fc732bdf40c398cf.jpg",
+    "index.html": "/anime-site/index.html",
+    "main.90e0ffd1.css.map": "/anime-site/static/css/main.90e0ffd1.css.map",
+    "main.d7457d3a.js.map": "/anime-site/static/js/main.d7457d3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90e0ffd1.css",
+    "static/js/main.d7457d3a.js"
+  ]
+}
