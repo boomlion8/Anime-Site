@@ -1,9 +1,4 @@
 import Home from "./Home";
-//import VideoPage from "./components/Page/VideoPage";
-//import VideoPage from "./components/Page/VideoPage";
-
-// import axios from "axios";
-//import { useState } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import VideoPage from "./components/Page/Episodes";
 import Animelist from "./components/Animelist/Animelist";

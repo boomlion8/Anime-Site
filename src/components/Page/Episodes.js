@@ -1,5 +1,5 @@
 import React, { useRef, useState } from "react";
-import haikyuu from "../Videos/haikyuu.mp4";
+import tr from "../Videos/tr.mp4";
 import haikyu1 from "../haikyu/haikyu1.jpg";
 import haikyu2 from "../haikyu/haikyu2.jpg";
 import haikyu3 from "../haikyu/haikyu3.jpg";
@@ -45,7 +45,7 @@ function VideoPage() {
           ref={videoRef}
           onClick={onVideoPress}
           className="videoCard_player"
-          src={haikyuu}
+          src={tr}
           alt="IG reel video"
           loop
           style={{

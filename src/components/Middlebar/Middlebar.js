@@ -6,11 +6,9 @@ import "./middlebar.css";
 import VideoCard from "../Video/VideoCard";
 
 import video1 from "../Videos/tr.mp4";
-import video2 from "../Videos/mha.mp4";
-import video3 from "../Videos/aot.mp4";
 
 function Middlebar() {
-  const videos = [video1, video2, video3];
+  const videos = [video1, video1, video1];
   return (
     <div>
       <div className="middlebar">

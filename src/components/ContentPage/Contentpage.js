@@ -1,7 +1,7 @@
 import React, { useRef, useState } from "react";
 import "./Contentpage.css";
 import Popular from "./Popular";
-import jjk from "../Videos/jk.mp4";
+import tr from "../Videos/tr.mp4";
 import haikyu from "./haikyu.jpg";
 import PlayCircleIcon from "@mui/icons-material/PlayCircle";
 
@@ -63,7 +63,7 @@ function Contentpage() {
             ref={videoRef}
             onClick={onVideoPress}
             className="videoCard_player"
-            src={jjk}
+            src={tr}
             alt="IG reel video"
           />
           <div className="play_video_icon">
